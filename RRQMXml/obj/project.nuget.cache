@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ppEUWeBI0m7fi/eBVgoXX2/7lk5zvCicE8CZswA/DMUqFPz0tkM1VOhVnlyNZNreY/F0SjHC2rlR4betd0uTw==",
+  "dgSpecHash": "Ia8cCMxeIzvse2u2vpNsMujtPuHT7p1G5Zvgk+gMpns5GyAfRRvS78QOQLpO7PDTDK28GHDuAhUkleTldsQUug==",
   "success": true,
-  "projectFilePath": "E:\\C#ClassLibraries\\RRQMXml\\RRQMXml\\RRQMXml.csproj",
+  "projectFilePath": "E:\\CodeOpen\\RRQMXml\\RRQMXml\\RRQMXml.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\17516\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\17516\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

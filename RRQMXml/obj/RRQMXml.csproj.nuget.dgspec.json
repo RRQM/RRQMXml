@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#ClassLibraries\\RRQMXml\\RRQMXml\\RRQMXml.csproj": {}
+    "E:\\CodeOpen\\RRQMXml\\RRQMXml\\RRQMXml.csproj": {}
   },
   "projects": {
-    "E:\\C#ClassLibraries\\RRQMXml\\RRQMXml\\RRQMXml.csproj": {
+    "E:\\CodeOpen\\RRQMXml\\RRQMXml\\RRQMXml.csproj": {
       "version": "2.0.1",
       "restore": {
-        "projectUniqueName": "E:\\C#ClassLibraries\\RRQMXml\\RRQMXml\\RRQMXml.csproj",
+        "projectUniqueName": "E:\\CodeOpen\\RRQMXml\\RRQMXml\\RRQMXml.csproj",
         "projectName": "RRQMXml",
-        "projectPath": "E:\\C#ClassLibraries\\RRQMXml\\RRQMXml\\RRQMXml.csproj",
+        "projectPath": "E:\\CodeOpen\\RRQMXml\\RRQMXml\\RRQMXml.csproj",
         "packagesPath": "C:\\Users\\17516\\.nuget\\packages\\",
-        "outputPath": "E:\\C#ClassLibraries\\RRQMXml\\RRQMXml\\obj\\",
+        "outputPath": "E:\\CodeOpen\\RRQMXml\\RRQMXml\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
