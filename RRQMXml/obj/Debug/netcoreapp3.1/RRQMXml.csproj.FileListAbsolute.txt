@@ -1,0 +1,10 @@
+E:\C#ClassLibraries\RRQMXml\RRQMXml\bin\Debug\netcoreapp3.1\RRQMXml.xml
+E:\C#ClassLibraries\RRQMXml\RRQMXml\bin\Debug\netcoreapp3.1\RRQMXml.deps.json
+E:\C#ClassLibraries\RRQMXml\RRQMXml\bin\Debug\netcoreapp3.1\RRQMXml.dll
+E:\C#ClassLibraries\RRQMXml\RRQMXml\bin\Debug\netcoreapp3.1\RRQMXml.pdb
+E:\C#ClassLibraries\RRQMXml\RRQMXml\obj\Debug\netcoreapp3.1\RRQMXml.AssemblyInfoInputs.cache
+E:\C#ClassLibraries\RRQMXml\RRQMXml\obj\Debug\netcoreapp3.1\RRQMXml.AssemblyInfo.cs
+E:\C#ClassLibraries\RRQMXml\RRQMXml\obj\Debug\netcoreapp3.1\RRQMXml.csproj.CoreCompileInputs.cache
+E:\C#ClassLibraries\RRQMXml\RRQMXml\obj\Debug\netcoreapp3.1\RRQMXml.dll
+E:\C#ClassLibraries\RRQMXml\RRQMXml\obj\Debug\netcoreapp3.1\RRQMXml.pdb
+E:\C#ClassLibraries\RRQMXml\RRQMXml\obj\Debug\netcoreapp3.1\RRQMXml.csprojAssemblyReference.cache

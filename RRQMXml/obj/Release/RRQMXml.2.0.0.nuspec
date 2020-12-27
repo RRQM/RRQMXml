@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RRQMXml</id>
+    <version>2.0.0</version>
+    <authors>若汝棋茗</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>RRQM.png</icon>
+    <description>此程序集已经封装好了平时所用到的所有对xml文件的操作，包括单节点单属性的存储，单节点多属性，多节点多属性等，也有很多不同方法的查询，这样一个xml文件完全可以充当小型数据库。作者QQ:505554090</description>
+    <copyright>Copyright © 2020 若汝棋茗</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETCoreApp3.1" />
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\C#ClassLibraries\RRQMXml\RRQMXml\bin\Release\net45\RRQMXml.dll" target="lib\net45\RRQMXml.dll" />
+    <file src="E:\C#ClassLibraries\RRQMXml\RRQMXml\bin\Release\net45\RRQMXml.xml" target="lib\net45\RRQMXml.xml" />
+    <file src="E:\C#ClassLibraries\RRQMXml\RRQMXml\bin\Release\netcoreapp3.1\RRQMXml.dll" target="lib\netcoreapp3.1\RRQMXml.dll" />
+    <file src="E:\C#ClassLibraries\RRQMXml\RRQMXml\bin\Release\netcoreapp3.1\RRQMXml.xml" target="lib\netcoreapp3.1\RRQMXml.xml" />
+    <file src="E:\C#ClassLibraries\RRQMXml\RRQMXml\bin\Release\netstandard2.0\RRQMXml.dll" target="lib\netstandard2.0\RRQMXml.dll" />
+    <file src="E:\C#ClassLibraries\RRQMXml\RRQMXml\bin\Release\netstandard2.0\RRQMXml.xml" target="lib\netstandard2.0\RRQMXml.xml" />
+    <file src="E:\C#ClassLibraries\RRQMXml\RRQMXml\RRQM.png" target="RRQM.png" />
+  </files>
+</package>

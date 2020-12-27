@@ -1,0 +1,9 @@
+E:\C#ClassLibraries\RRQMXml\RRQMXml\bin\Release\net45\RRQMXml.xml
+E:\C#ClassLibraries\RRQMXml\RRQMXml\bin\Release\net45\RRQMXml.dll
+E:\C#ClassLibraries\RRQMXml\RRQMXml\bin\Release\net45\RRQMXml.pdb
+E:\C#ClassLibraries\RRQMXml\RRQMXml\obj\Release\net45\RRQMXml.AssemblyInfoInputs.cache
+E:\C#ClassLibraries\RRQMXml\RRQMXml\obj\Release\net45\RRQMXml.AssemblyInfo.cs
+E:\C#ClassLibraries\RRQMXml\RRQMXml\obj\Release\net45\RRQMXml.csproj.CoreCompileInputs.cache
+E:\C#ClassLibraries\RRQMXml\RRQMXml\obj\Release\net45\RRQMXml.dll
+E:\C#ClassLibraries\RRQMXml\RRQMXml\obj\Release\net45\RRQMXml.pdb
+E:\C#ClassLibraries\RRQMXml\RRQMXml\obj\Release\net45\RRQMXml.csprojAssemblyReference.cache
